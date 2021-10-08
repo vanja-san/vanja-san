@@ -1,2 +1,1 @@
-[![t-banner](https://github.com/vanja-san/vanja-san/raw/master/assets/pv.svg)](https://github.com/vanja-san)
-i'm simple persone
+[![t-banner](https://raw.githubusercontent.com/vanja-san/vanja-san/main/assets/pv.svg)](https://github.com/vanja-san)
