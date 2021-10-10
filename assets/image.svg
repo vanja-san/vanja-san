@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="cover_gh" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="854px" height="100px" viewBox="0 0 854 100" enable-background="new 0 0 854 100" xml:space="preserve">
+	<defs>
+	  <style type="text/css">
+	    @font-face {
+	      font-family: "Courier Prime Regular";
+	      src: url(https://github.com/quoteunquoteapps/CourierPrime/raw/master/fonts/ttf/CourierPrime-Regular.ttf);
+	    }
+	  </style>
+	</defs>
+	<g><path fill="#121212" d="M846,100H8c-4.418,0-8-3.582-8-8V8c0-4.418,3.582-8,8-8h838c4.418,0,8,3.582,8,8v84 C854,96.418,850.418,100,846,100z"/></g>
+	<text transform="matrix(1 0 0 1 163.1721 60.6592)" fill="#FFFF00" font-family="Courier Prime Regular" font-size="40px">Loading information...</text>
+</svg>
