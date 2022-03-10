@@ -11,10 +11,10 @@
 				animation: dots 1s ease infinite;
 			}
 			#dot2 { 
-				animation: dots 1s ease-out infinite;
+				animation: dots 1s 0.5s ease infinite;
 			}
 			#dot3 { 
-				animation: dots 1s 0.5s ease infinite;
+				animation: dots 1s 0.7s ease infinite;
 			}
 		</style>
 	</defs>
