@@ -14,7 +14,7 @@
 				animation: dots 1s ease-in infinite;
 			}
 			#dot3 { 
-				animation: dots 1s ease-in-out infinite;
+				animation: dots 1s 0.5s ease infinite;
 			}
 		</style>
 	</defs>
