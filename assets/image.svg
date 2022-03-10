@@ -7,7 +7,7 @@
 			@keyframes hideshow { 0% {opacity: 1;} 10% {opacity: 1;} 15% {opacity: 0;} 100% {opacity: 1;}}
 			#dot1 {animation: hideshow 1s ease infinite;}
 			#dot2 {opacity: 0;animation: hideshow 1s 0.5s ease infinite;}
-			#dot3 {opacity: 0;animation: hideshow 1s 1s ease infinite;}
+			#dot3 {opacity: 0;animation: hideshow 1s 0,5s ease infinite;}
 		</style>
 	</defs>
 	<g><path fill="#202020" d="M846,100H8c-4.418,0-8-3.582-8-8V8c0-4.418,3.582-8,8-8h838c4.418,0,8,3.582,8,8v84 C854,96.418,850.418,100,846,100z"/></g>
