@@ -2,19 +2,19 @@
 <svg version="1.1" id="cover_gh" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="854px" height="100px" viewBox="0 0 854 100" enable-background="new 0 0 854 100" xml:space="preserve">
 	<defs>
 		<style type="text/css">
-			@keyframes hideShow { 
+			@keyframes hide-show { 
 				from {opacity: 0;}
 				25% {opacity: 1;}
 				to {opacity: 0;}
 			}
 			#dot1 {
-				animation: hideShow 1s ease-in infinite;
+				animation: hide-show 1s ease-in infinite;
 			}
 			#dot2 {
-				animation: hideShow 1s 1.5s ease-out infinite;
+				animation: hide-show 1s 1.5s ease-out infinite;
 			}
 			#dot3 {
-				animation: hideShow 1s 2.5s ease-in infinite;
+				animation: hide-show 1s 2.5s ease-in infinite;
 			}
 		</style>
 	</defs>
