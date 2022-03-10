@@ -7,27 +7,12 @@
 			#dot2 {opacity: 0;animation: hideshow 2s 0.5s ease infinite;}
 			#dot3 {opacity: 0;animation: hideshow 2s 1s ease infinite;}
 			
-			/* latin-ext */
-			@font-face {
-			  font-family: 'Courier Prime';
-			  font-style: normal;
-			  font-weight: 400;
-			  src: url(https://fonts.gstatic.com/s/courierprime/v5/u-450q2lgwslOqpF_6gQ8kELaw9pWt_-.woff2) format('woff2');
-			  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-			}
-			/* latin */
-			@font-face {
-			  font-family: 'Courier Prime';
-			  font-style: normal;
-			  font-weight: 400;
-			  src: url(https://fonts.gstatic.com/s/courierprime/v5/u-450q2lgwslOqpF_6gQ8kELawFpWg.woff2) format('woff2');
-			  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-			}
+			@import url("https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 		</style>
 	</defs>
     	<style><![CDATA[svg text{stroke:none}]]></style>
 	<g><path fill="#121212" d="M846,100H8c-4.418,0-8-3.582-8-8V8c0-4.418,3.582-8,8-8h838c4.418,0,8,3.582,8,8v84 C854,96.418,850.418,100,846,100z"/></g>
-	<text transform="matrix(1 0 0 1 163.1721 60.6592)" fill="#FFFF00" font-family="Courier Prime" font-size="40px">Loading Information</text>
+	<text transform="matrix(1 0 0 1 163.1721 60.6592)" fill="#FFFF00" font-family="Courier Prime" font-size="40px" font-weight="400">Loading Information</text>
 	<circle id="dot1" r="4" cx="630" cy="57" fill="#FFFF00" />
 	<circle id="dot2" r="4" cx="645" cy="57" fill="#FFFF00" />
 	<circle id="dot3" r="4" cx="660" cy="57" fill="#FFFF00" />
