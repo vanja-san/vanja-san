@@ -1,1 +1,1 @@
-[![t-banner](https://raw.githubusercontent.com/vanja-san/vanja-san/main/assets/image.svg)]()
+[![t-banner](https://raw.githubusercontent.com/vanja-san/vanja-san/main/assets/image.svg)](#)
