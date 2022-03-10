@@ -14,7 +14,7 @@
 				animation: hideShow 1s 1.5s ease-out infinite;
 			}
 			#dot3 {
-				animation: hideShow 1s 2.5s ease-in infinite;
+				animation: hideShow 1s 3s ease-in infinite;
 			}
 		</style>
 	</defs>
