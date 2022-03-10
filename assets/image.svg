@@ -3,23 +3,17 @@
 	<defs>
 		<style type="text/css">
 			@keyframes hide-show { 
-				from {opacity: 1;}
-				25% {opacity: 0;}
-				to {opacity: 1;}
+				25% { content: '.'; }
+				50% { content: '..'; }
+				75%, 100% { content: '...'; }
 			}
-			#dot1 {
-				animation: hide-show 1s ease-in infinite;
-			}
-			#dot2 {
-				animation: hide-show 1s, 1.5s ease-out infinite;
-			}
-			#dot3 {
-				animation: hide-show 1s, 2.5s ease-in infinite;
+			.loading {
+				animation: dots 1.5s steps(3) infinite;
 			}
 		</style>
 	</defs>
 	<g><path fill="#202020" d="M846,100H8c-4.418,0-8-3.582-8-8V8c0-4.418,3.582-8,8-8h838c4.418,0,8,3.582,8,8v84 C854,96.418,850.418,100,846,100z"/></g>
-	<text transform="matrix(1 0 0 1 90 60.5)" fill="#FFFF00" font-family="monospace" font-size="40px">
+	<text transform="matrix(1 0 0 1 90 60.5)" fill="#FFFF00" font-family="monospace" font-size="40px" class="loading">
 		Loading Information
 	</text>
 	<circle id="dot1" r="2" cx="630" cy="57" fill="#FFFF00" />
