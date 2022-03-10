@@ -10,8 +10,8 @@
 			#dot3 {opacity: 0;animation: hideshow 2s 1s ease infinite;}
 		</style>
 	</defs>
-	<g><path fill="#121212" d="M846,100H8c-4.418,0-8-3.582-8-8V8c0-4.418,3.582-8,8-8h838c4.418,0,8,3.582,8,8v84 C854,96.418,850.418,100,846,100z"/></g>
-	<text fill="#FFFF00" font-family="Courier Prime" font-size="40px">
+	<g><path fill="#202020" d="M846,100H8c-4.418,0-8-3.582-8-8V8c0-4.418,3.582-8,8-8h838c4.418,0,8,3.582,8,8v84 C854,96.418,850.418,100,846,100z"/></g>
+	<text transform="matrix(1 0 0 1 163.1721 60.6592)" fill="#FFFF00" font-family="Courier Prime" font-size="40px">
 		Loading Information
 	</text>
 	<circle id="dot1" r="4" cx="630" cy="57" fill="#FFFF00" />
