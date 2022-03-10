@@ -20,8 +20,8 @@
 	</defs>
 	<g><path fill="#202020" d="M846,100H8c-4.418,0-8-3.582-8-8V8c0-4.418,3.582-8,8-8h838c4.418,0,8,3.582,8,8v84 C854,96.418,850.418,100,846,100z"/></g>
 	<text fill="#FFFF00" font-family="monospace" font-size="40px" transform="matrix(1 0 0 1 90 60)">Loading Information</text>
-	<circle id="dot1" r="2" cx="550" cy="57" fill="#FFFF00" />
-	<circle id="dot2" r="2" cx="640" cy="57" fill="#FFFF00" />
-	<circle id="dot3" r="2" cx="650" cy="57" fill="#FFFF00" />
+	<circle id="dot1" r="2" cx="550" cy="60" fill="#FFFF00" />
+	<circle id="dot2" r="2" cx="640" cy="60" fill="#FFFF00" />
+	<circle id="dot3" r="2" cx="650" cy="60" fill="#FFFF00" />
 	
 </svg>
