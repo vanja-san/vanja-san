@@ -2,11 +2,27 @@
 <svg version="1.1" id="cover_gh" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="854px" height="100px" viewBox="0 0 854 100" enable-background="new 0 0 854 100" xml:space="preserve">
 	<defs>
 		<style type="text/css">
-			@import url("https://fonts.googleapis.com/css2?family=Courier+Prime");
 			@keyframes hideshow { 0% {opacity: 1;} 10% {opacity: 1;} 15% {opacity: 0;} 100% {opacity: 1;}}
 			#dot1 {animation: hideshow 2s ease infinite;}
 			#dot2 {opacity: 0;animation: hideshow 2s 0.5s ease infinite;}
 			#dot3 {opacity: 0;animation: hideshow 2s 1s ease infinite;}
+			
+			/* latin-ext */
+			@font-face {
+			  font-family: 'Courier Prime';
+			  font-style: normal;
+			  font-weight: 400;
+			  src: url(https://fonts.gstatic.com/s/courierprime/v5/u-450q2lgwslOqpF_6gQ8kELaw9pWt_-.woff2) format('woff2');
+			  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+			}
+			/* latin */
+			@font-face {
+			  font-family: 'Courier Prime';
+			  font-style: normal;
+			  font-weight: 400;
+			  src: url(https://fonts.gstatic.com/s/courierprime/v5/u-450q2lgwslOqpF_6gQ8kELawFpWg.woff2) format('woff2');
+			  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+			}
 		</style>
 	</defs>
     	<style><![CDATA[svg text{stroke:none}]]></style>
