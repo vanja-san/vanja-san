@@ -16,8 +16,8 @@
 	<text transform="matrix(1 0 0 1 90 60.5)" fill="#FFFF00" font-family="monospace" font-size="40px" class="loading">
 		Loading Information
 	</text>
-	<circle id="dot1" r="2" cx="630" cy="57" fill="#FFFF00" />
+	<!-- <circle id="dot1" r="2" cx="630" cy="57" fill="#FFFF00" />
 	<circle id="dot2" r="2" cx="640" cy="57" fill="#FFFF00" />
-	<circle id="dot3" r="2" cx="650" cy="57" fill="#FFFF00" />
+	<circle id="dot3" r="2" cx="650" cy="57" fill="#FFFF00" /> -->
 	
 </svg>
