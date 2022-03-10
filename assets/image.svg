@@ -3,9 +3,8 @@
 	<defs>
 		<style type="text/css">
 			@keyframes hideShow { 
-				from {opacity: 1;}
-				25% {opacity: 0;}
-				50% {opacity: 1;}
+				from {opacity: 0;}
+				25% {opacity: 1;}
 				to {opacity: 0;}
 			}
 			#dot1 {
