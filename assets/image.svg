@@ -7,8 +7,12 @@
 				50% { content: '..'; }
 				75%, 100% { content: '...'; }
 			}
-			.loading:after {
+			.loading:after { 
 				animation: dots 1.5s steps(3) infinite;
+				content: ' ';
+				display: inline-block;
+				width: 1em;
+				text-align: left;
 			}
 		</style>
 	</defs>
