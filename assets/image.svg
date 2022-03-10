@@ -2,7 +2,7 @@
 <svg version="1.1" id="cover_gh" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="854px" height="100px" viewBox="0 0 854 100" enable-background="new 0 0 854 100" xml:space="preserve">
 	<defs>
 		<style type="text/css">
-			@import url("https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700");
+			@import url("https://fonts.googleapis.com/css2?family=Courier+Prime:0,400;0,700;1,400;1,700");
 			
 			@keyframes hideshow { 0% {opacity: 1;} 10% {opacity: 1;} 15% {opacity: 0;} 100% {opacity: 1;}}
 			#dot1 {animation: hideshow 2s ease infinite;}
