@@ -11,10 +11,10 @@
 				animation: hide-show 1s ease-in infinite;
 			}
 			#dot2 {
-				animation: hide-show 1s 1.5s ease-out infinite;
+				animation: hide-show 1s, 1.5s ease-out infinite;
 			}
 			#dot3 {
-				animation: hide-show 1s 2.5s ease-in infinite;
+				animation: hide-show 1s, 2.5s ease-in infinite;
 			}
 		</style>
 	</defs>
