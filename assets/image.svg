@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="cover_gh" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="854px" height="100px" viewBox="0 0 854 100" enable-background="new 0 0 854 100" xml:space="preserve">
+<svg version="1.1" id="cover_gh" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="854px" height="100px" viewBox="0 0 854 100" xml:space="preserve">
 	<defs>
 	  <style type="text/css">
             @keyframes dots { 
@@ -12,8 +12,7 @@
 	    #dot3 {  animation: dots 1s 0.4s ease infinite; }
 	  </style>
 	</defs>
-	<!-- <g><path d="M846,100H8c-4.418,0-8-3.582-8-8V8c0-4.418,3.582-8,8-8h838c4.418,0,8,3.582,8,8v84 C854,96.418,850.418,100,846,100z"/></g> -->
-	<text fill="#ffa570" font-family="Courier" font-size="40px" font-weight="600" x="10" y="0" transform="matrix(1 0 0 1 165 60)">Loading Information</text>
+	<text fill="#ffa570" font-family="Courier" font-size="40px" font-weight="600" x="0" y="0" transform="matrix(1 0 0 1 177 60)">Loading Information</text>
 	<circle id="dot1" r="3" cx="640" cy="57" fill="#ffa570" opacity="0" />
 	<circle id="dot2" r="3" cx="650" cy="57" fill="#ffa570" opacity="0" />
 	<circle id="dot3" r="3" cx="660" cy="57" fill="#ffa570" opacity="0" />
